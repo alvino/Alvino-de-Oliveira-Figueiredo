@@ -41,20 +41,39 @@ Participação no projeto de desenvolvendo de um framework em JSF para administr
 
 ### Competências profissionais de TI:
 
-Sistema Operacional:
+#### Sistema Operacional:
+
 linux, windowns.
-Linguagem de Programação:
-C, C++,PHP, JAVA, python, JavaScript, Kotlin.
-Framework
-Web: JSP, JSF, Django, Nodejs, Express, Reactjs.
-Desktop: Swing, Electron.
-Mobile: React-Native, Android.
-Repositórios:
-Git e mercule e subversion
-Base de Dados:
-MySQL, SQLite, Hsqldb, Prostgres, conhecimento em SQL,  e banco de dados relacional e NoSQL com Mongodb
-Conhecimento Web:
+
+#### Linguagem de Programação:
+
+PHP, JAVA, python, JavaScript, Kotlin.
+
+##### Conhecimento Web:
+
 Tecnologia WEB Html5, javascript e CSS
+
+#### Framework
+
+##### Web: 
+
+JSP, JSF, Django, Nodejs, Express, Reactjs.
+
+##### Desktop: 
+
+Swing, Electron.
+
+##### Mobile: 
+
+React-Native, Android.
+
+#### Repositórios:
+
+Git e mercule e subversion
+#### Base de Dados:
+
+MySQL, SQLite, Hsqldb, Prostgres, conhecimento em SQL,  e banco de dados relacional e NoSQL com Mongodb
+
 
 ### Certificados de Cursos Adicionais em EAD: 
 - Certificado Curso Web Scraping com Python e Beautiful Soup pela Udemy (5 horas)  on-line

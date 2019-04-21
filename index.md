@@ -1,4 +1,6 @@
 
+![image](face.jpg)
+
 Brasileiro, casado, nascido em 1986 
 
 telefone: (62) 9 81801912 

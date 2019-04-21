@@ -1,27 +1,31 @@
 
 Brasileiro, casado, nascido em 1986 
+
 telefone: (62) 9 81801912 
+
 [e-mail: alvinoofigueiredo@gmail.com](alvinoofigueiredo@gmail.com)
+
 [link: https://br.linkedin.com/pub/alvino-figueiredo/23/528/465](https://br.linkedin.com/pub/alvino-figueiredo/23/528/465)
+
 [git: https://github.com/alvino](https://github.com/alvino)
 
-### Resumo informado pelo autor:
+## Resumo informado pelo autor:
 
 Bacharel em Ciência da Computação pela Fundação Universidade Federal do Tocantins concluido em 2011. Tenho experiência na área de Programação em tecnologia java como JSP, JSF, JPA, Android e programação desktop com swing. Conheço  o basico linguagem C++, PHP. Trabalhei em projeto pessoal com Python, Django e Nodejs com Express JavaScript, css e html. Já trabalhei com os bancos de dados Postgres, SQLite, HsqlDB e noSql mongodb. Para versionamento Git e deploy com heroku. Já tive atuação em empresa de órgão publico e privada, com desenvolvimento e análise de sistemas, além de atua com docência.
 
-### Objetivo: 
+## Objetivo: 
 
 Trabalhar com Tecnologia da Informação, Desenvolvimento e Suporte ao sistema, apreender linguagem e técnicas para melhor implementar a atividade, e compartilhar conhecimento com colegas e comunidades de TI. Aprimoramento profissionalmente e intelectualmente pelos meios disponível por curso de extensão ou web como  EAD. 
 Perfil profissional: 
 
 Compromisso, responsabilidade, integridade e confiabilidade, no que faço. Cumprindo metas e prazos estipulados.
 
-### Formação: 
+## Formação: 
 
 Bacharel em Ciência da Computação, pela Universidade Federal do Tocantins, com conclusão em julho/2011. 
 
 
-### Histórico profissional: 
+## Histórico profissional: 
 
 - Prefeitura de Alto Horizonte-GO - outubro de 2017 ate o momento atuando no cargo de Superintendente de Administração. 
 - FASEM - 06/2013 a 06/2017 Faculdade Serra da Mesa no cargo: Professor do Curso de Gestão de Tecnologia da Informação, Administrando as Disciplina de Programação I e II, Gestão de Conteúdo na Web, Teoria de banco de Dados e Estrutura de Dados.
@@ -39,43 +43,44 @@ Responsável pelo projeto do sistema para digitalização e assinar documento el
 Cargo: administração 
 Participação no projeto de desenvolvendo de um framework em JSF para administração e uso interno da secretaria com IDE netbeans. 
 
-### Competências profissionais de TI:
+## Competências profissionais de TI:
 
-#### Sistema Operacional:
+### Sistema Operacional:
 
 linux, windowns.
 
-#### Linguagem de Programação:
+### Linguagem de Programação:
 
 PHP, JAVA, python, JavaScript, Kotlin.
 
-##### Conhecimento Web:
+#### Conhecimento Web:
 
 Tecnologia WEB Html5, javascript e CSS
 
-#### Framework
+### Framework
 
-##### Web: 
+#### Web: 
 
 JSP, JSF, Django, Nodejs, Express, Reactjs.
 
-##### Desktop: 
+#### Desktop: 
 
 Swing, Electron.
 
-##### Mobile: 
+#### Mobile: 
 
 React-Native, Android.
 
-#### Repositórios:
+### Repositórios:
 
 Git e mercule e subversion
-#### Base de Dados:
+
+### Base de Dados:
 
 MySQL, SQLite, Hsqldb, Prostgres, conhecimento em SQL,  e banco de dados relacional e NoSQL com Mongodb
 
 
-### Certificados de Cursos Adicionais em EAD: 
+## Certificados de Cursos Adicionais em EAD: 
 - Certificado Curso Web Scraping com Python e Beautiful Soup pela Udemy (5 horas)  on-line
 - Certificado Interface Grafica em JavaFX pela Udemy on-line
 - Certificado Curso em video “Algoritmo 40horas (on-line)”
@@ -95,10 +100,10 @@ MySQL, SQLite, Hsqldb, Prostgres, conhecimento em SQL,  e banco de dados relacio
 - Certificado Caelum “Testando sua Aplicação Web com Selenium 12 horas (on-line)”
 - Certificado Caelum “Banco de dados e SQL 12 horas (on-line)” 
 
-### Certificados de Cursos Adicionais presencial: 
+## Certificados de Cursos Adicionais presencial: 
 - SENAC Tocantins – 11a 28 de fevereiro 2008 Concluído o aperfeiçoamento em Programação em Java – Avançado 42 horas .
 
-### Certificados de Eventos: 
+## Certificados de Eventos: 
 - IX ENACOMP UFG-Catalão – 25 a 27 de outubro de 2011 Participação Encontro Anual de Computação e Minicursos de Conceitos de Voip e Virtualização de Servidores.
 - SENAC Tocantins – 18 de outubro de 2006 Participação do I Fórum de Tecnologia Cibernética do Tocantins.
 - SECOP 2008 Palmas-Tocantins Participação Seminário Nacional de TIC para Gestão Pública. 

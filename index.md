@@ -1,12 +1,8 @@
 
 Brasileiro, casado, nascido em 1986 
-
 telefone: (62) 9 81801912 
-
 [e-mail: alvinoofigueiredo@gmail.com](alvinoofigueiredo@gmail.com)
-      
 [link: https://br.linkedin.com/pub/alvino-figueiredo/23/528/465](https://br.linkedin.com/pub/alvino-figueiredo/23/528/465)
-      
 [git: https://github.com/alvino](https://github.com/alvino)
 
 ### Resumo informado pelo autor:
@@ -80,10 +76,10 @@ Tecnologia WEB Html5, javascript e CSS
 - Certificado Caelum “Testando sua Aplicação Web com Selenium 12 horas (on-line)”
 - Certificado Caelum “Banco de dados e SQL 12 horas (on-line)” 
 
-#### Certificados de Cursos Adicionais presencial: 
+### Certificados de Cursos Adicionais presencial: 
 - SENAC Tocantins – 11a 28 de fevereiro 2008 Concluído o aperfeiçoamento em Programação em Java – Avançado 42 horas .
 
-#### Certificados de Eventos: 
+### Certificados de Eventos: 
 - IX ENACOMP UFG-Catalão – 25 a 27 de outubro de 2011 Participação Encontro Anual de Computação e Minicursos de Conceitos de Voip e Virtualização de Servidores.
 - SENAC Tocantins – 18 de outubro de 2006 Participação do I Fórum de Tecnologia Cibernética do Tocantins.
 - SECOP 2008 Palmas-Tocantins Participação Seminário Nacional de TIC para Gestão Pública. 

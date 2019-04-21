@@ -1,5 +1,4 @@
 
-![image](face.jpg)
 
 Brasileiro, casado, nascido em 1986 
 

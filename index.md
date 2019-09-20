@@ -82,24 +82,39 @@ MySQL, SQLite, Hsqldb, Prostgres, conhecimento em SQL,  e banco de dados relacio
 
 
 ## Certificados de Cursos Adicionais em EAD: 
-- Certificado Curso Web Scraping com Python e Beautiful Soup pela Udemy (5 horas)  on-line
-- Certificado Interface Grafica em JavaFX pela Udemy on-line
-- Certificado Curso em video “Algoritmo 40horas (on-line)”
-- Certificado Curso em video “Html5 40horas (on-line)”
-- Certificado IGTI “Governança em Tecnologia da Informação 16 horas (on-line)”
-- Certificado Caelum “Produtividade extrema com Eclipse 20 horas (on-line)”
-- Certificado Caelum “Aprimoramento a Orientação a Objetos com Java 20 horas (on-line)”
-- Certificado Caelum “Testes de Unidade e TDD 12 horas (on-line)”
-- Certificado Caelum “Gráfico com Google Chart Tools 16 horas (on-line)”
-- Certificado Caelum “ANT: Builds de software automatizados com um clique 12 horas (on-line)”
-- Certificado Caelum “Refatorando na prática em Java 20 horas (on-line)”
-- Certificado Caelum “Relatórios em Java com JasperReports e iReport 20 horas (on-line)”
-- Certificado Caelum “Git: Trabalho em Equipe com Controle e Segurança 20 horas (on-line)”
-- Certificado Caelum “Design Patterns para bons programadores 32 horas (on-line)” 
-- Certificado Caelum “VRaptor: web rápida e fácil com java 12 horas (on-line)”
-- Certificado Caelum “Testando comportamento através de mocks 12 horas (on-line)”
-- Certificado Caelum “Testando sua Aplicação Web com Selenium 12 horas (on-line)”
-- Certificado Caelum “Banco de dados e SQL 12 horas (on-line)” 
+- Certificado 4Linux "Linux Beginners in Cloud 20horas"
+- Certificado 4Linux "DevOps Essentials 20horas"
+- Certificado Udemy "Curso Web Scraping com Python e Beautiful Soup  (5 horas)  on-line"
+- Certificado Udemy "Interface Grafica em JavaFX pela Udemy on-line 5 horas"
+- Certificado Curso em video “Algoritmo 40horas (on-line)"
+- Certificado Curso em video “Html5 40horas (on-line)"
+- Certificado FGV "Gerenciamento do Escopo de Projetos curso on-line de 5 horas"
+- Certificado IGTI “Governança em Tecnologia da Informação 16 horas (on-line)"
+- Certificado Alure "Testes de Unidade e TDD 12 horas"
+- Certificado Alure "Produtividade extrema com Eclipse 20 horas (on-line)"
+- Certificado Alure "Aprimoramento a Orientação a Objetos com Java 20 horas (on-line)"
+- Certificado Alure "Testes de Unidade e TDD 12 horas (on-line)"
+- Certificado Alure Gráfico com Google Chart Tools 16 horas (on-line)"
+- Certificado Alure "ANT: Builds de software automatizados com um clique 12 horas (on-line)"
+- Certificado Alure "Refatorando na prática em Java 20 horas (on-line)"
+- Certificado Alure "Relatórios em Java com JasperReports e iReport 20 horas (on-line)"
+- Certificado Alure "Git: Trabalho em Equipe com Controle e Segurança 20 horas (on-line)"
+- Certificado Alure "Design Patterns para bons programadores 32 horas (on-line)" 
+- Certificado Alure "VRaptor: web rápida e fácil com java 12 horas (on-line)"
+- Certificado Alure "Testando comportamento através de mocks 12 horas (on-line)"
+- Certificado Alure "Testando sua Aplicação Web com Selenium 12 horas (on-line)"
+- Certificado Alure "Banco de dados e SQL 12 horas (on-line)"
+- Certificado Alure "Conexão Java 2012 - Android 6horas"
+- Certificado Alure "VRaptor 3: web rápida e fácil com java	12 horas"
+ 
+Curso: 	Conexão Java 2012 - Começando com Java
+Instituição: 	Alura
+Data de Início: 	
+13/11/2012 	
+
+Data de Conclusão:13/11/2012
+	
+Comentário: 	http://www.alura.com.br/certificate/fbbb9afb3aa0d9c4610990a2dd063adb
 
 ## Certificados de Cursos Adicionais presencial: 
 - SENAC Tocantins – 11a 28 de fevereiro 2008 Concluído o aperfeiçoamento em Programação em Java – Avançado 42 horas .

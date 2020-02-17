@@ -43,16 +43,16 @@ Eduardo Ferreira Ribeiro
 
 ### Projetos No Git e Build no Heroku:
 
-Minicurso de ReactJS criação de box para arquivos
+#### Minicurso de ReactJS criação de box para arquivos
 - [git projeto box-de-arquivo](https://github.com/alvino/fontend "clique para acessar o git")
 - [build do projeto box-de-arquivo heroku](https://alvinofontend.herokuapp.com/ "clique para acessar o build do projeto")
 - [git projeto api rest do box-de-arquivo](https://github.com/alvino/backend)
 
-Minicurso de SocketIO criação de um placar online com 'admin'
+#### Minicurso de SocketIO criação de um placar online com 'admin'
 - [git projeto placar-online](https://github.com/alvino/placar-online "clique para acessar o git")
 - [build do projeto placar-online heroku](https://placaronlinealvino.herokuapp.com/ "clique para acessar o build do projeto")
 
-Pequeno projeto proprio para criação de documento em Django
+#### Pequeno projeto proprio para criação de documento em Django
 - [git projeto altohorizonte](https://github.com/alvino/altohorizonte "clique para acessar o git")
 - [build do projeto altohorizonte heroku](https://altohorizonte.herokuapp.com/ "clique para acessar o build do projeto")
 

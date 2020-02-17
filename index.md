@@ -22,28 +22,22 @@ Perfil profissional:
 
 Compromisso, responsabilidade, integridade e confiabilidade, no que faço. Cumprindo metas e prazos estipulados.
 
-## Formação: 
+##  Formação acadêmica:
 
-Bacharel em Ciência da Computação, pela Universidade Federal do Tocantins, com conclusão em julho/2011. 
+Graduação em Ciência da Computação 
 
+2005 - 2011
 
-## Histórico profissional: 
+Universidade Federal do Tocantins
+Título: Extração de Estradas de uma Imagem de Satélite da Cidade de Palmas - TO; 2010; Trabalho de Conclusão de Curso; (Graduação em Ciência da Computação) - Universidade Federal do Tocantins
 
-- Prefeitura de Alto Horizonte-GO - outubro de 2017 ate o momento atuando no cargo de Superintendente de Administração. 
-- FASEM - 06/2013 a 06/2017 Faculdade Serra da Mesa no cargo: Professor do Curso de Gestão de Tecnologia da Informação, Administrando as Disciplina de Programação I e II, Gestão de Conteúdo na Web, Teoria de banco de Dados e Estrutura de Dados.
-- Professor Substituto IFG campos Uruaçu-GO professor de informática II, com as disciplinas de programação, Banco de Dados, Sistemas Operacionais, Gerenciamento de Projetos, Gestão e Qualidade de Software no segundo período 2016.
-- Pronatec – 2013 Cargo: Professor (Instador e Reparador de Redes de Computador) 
-- (Temporario) Cargill Agricula S. A. - 2/2012 a 7/2012 (Empresa de originação de grãos) 
-Cargo: Administrativo (controladoria) 
-- Secretaria de Segurança Publica - 3/2011 a 7/2011 (Empresa de grande porte no segmento serviços públicos) 
-Cargo: administração
-Manutenção e criação de Módulos do SGI em Java Tecnologia JSF (sistema de gerenciamento integrado)  com a IDE eclipse.
-- FCAS - Organização de Documentos Inteligentes – 2/2009 a 11/2010 (Empresa de pequeno porte no segmento empresa privada) 
-Cargo: Programador Júnior II 
-Responsável pelo projeto do sistema para digitalização e assinar documento eletronicamente, feito em java desktop com as tecnologia do JSE e swing com a IDE netbeans. 
-- Secretaria de Trabalho e Desenvolvimento Social – 4/2008 a 2/2009 (Empresa de grande porte no segmento serviços públicos) 
-Cargo: administração 
-Participação no projeto de desenvolvendo de um framework em JSF para administração e uso interno da secretaria com IDE netbeans. 
+### Comissão julgadora das bancas
+
+Eduardo Ferreira Ribeiro; Andreas Kneip;Patrick Letouze. 
+
+### Foi orientado por
+
+Eduardo Ferreira Ribeiro
 
 ## Competências profissionais de TI:
 
@@ -97,48 +91,113 @@ Git e mercule e subversion
 
 MySQL, SQLite, Hsqldb, Prostgres, conhecimento em SQL,  e banco de dados relacional e NoSQL com Mongodb
 
+## Histórico profissional
 
-## Certificados de Cursos Adicionais em EAD: 
-- Certificado 4Linux "Linux Beginners in Cloud 20horas"
-- Certificado 4Linux "DevOps Essentials 20horas"
-- Certificado Udemy "Curso Web Scraping com Python e Beautiful Soup  (5 horas)  on-line"
-- Certificado Udemy "Interface Grafica em JavaFX pela Udemy on-line 5 horas"
-- Certificado Curso em video “Algoritmo 40horas (on-line)"
-- Certificado Curso em video “Html5 40horas (on-line)"
-- Certificado FGV "Gerenciamento do Escopo de Projetos curso on-line de 5 horas"
-- Certificado IGTI “Governança em Tecnologia da Informação 16 horas (on-line)"
-- Certificado Alure "Testes de Unidade e TDD 12 horas"
-- Certificado Alure "Produtividade extrema com Eclipse 20 horas (on-line)"
-- Certificado Alure "Aprimoramento a Orientação a Objetos com Java 20 horas (on-line)"
-- Certificado Alure "Testes de Unidade e TDD 12 horas (on-line)"
-- Certificado Alure Gráfico com Google Chart Tools 16 horas (on-line)"
-- Certificado Alure "ANT: Builds de software automatizados com um clique 12 horas (on-line)"
-- Certificado Alure "Refatorando na prática em Java 20 horas (on-line)"
-- Certificado Alure "Relatórios em Java com JasperReports e iReport 20 horas (on-line)"
-- Certificado Alure "Git: Trabalho em Equipe com Controle e Segurança 20 horas (on-line)"
-- Certificado Alure "Design Patterns para bons programadores 32 horas (on-line)" 
-- Certificado Alure "VRaptor: web rápida e fácil com java 12 horas (on-line)"
-- Certificado Alure "Testando comportamento através de mocks 12 horas (on-line)"
-- Certificado Alure "Testando sua Aplicação Web com Selenium 12 horas (on-line)"
-- Certificado Alure "Banco de dados e SQL 12 horas (on-line)"
-- Certificado Alure "Conexão Java 2012 - Android 6horas"
-- Certificado Alure "VRaptor 3: web rápida e fácil com java	12 horas"
+### Experiência profissional
+
+#### 2017 - Atual
+Municipio de Alto Horizonte
+
+Vínculo: Servidor Público, Enquadramento Funcional: Superintendente de Administração, Carga horária: 40
+
+#### 2016 - 2016
+Instituto Federal de Goiás
+
+Vínculo: , Enquadramento Funcional: Professor Substituto, Carga horária: 16
+
+##### Outras informações:
+Professor Substituto administrando as disciplinas de Gestão de Software, Gerenciamento de projetos de software, banco de dados, programação I, Gestão de Qualidade de Software e Sistemas Operacionais.
+
+#### 2013 - 2017
+FACULDADE SERRA DA MES A - FASEM
+
+Vínculo: Colaborador, Enquadramento Funcional: professor, Carga horária: 12
+
+##### Outras informações:
+Professor GTI (Gestão da Tecnologia da Informação)
+
+#### 2012 - 2012
+Cargill Uruaçu,GO, CARGIL URUAÇU
+
+Vínculo: Colaborador, Enquadramento Funcional: Empregado Temporario, Regime: Dedicação exclusiva.
+
+##### Outras informações:
+Função Administrativa por tempo determinado.
+
+#### 2009 - 2010
+FCAS - digitalização e organização de documentos
+
+Vínculo: Colaborador, Enquadramento Funcional: Programador, Carga horária: 44
+
+##### Outras informações:
+Desenvolvedor de sistema em Java.
+
+#### 2008 - 2009
+Secretaria de Estado de Trabalho, Assistência Social do Tocantins)
+
+Vínculo: Servidor Público, Enquadramento Funcional: Pogramodor, Carga horária: 40
+
+##### Outras informações:
+Desenvolvia o trabalho de analista de sistemas desenvolvendo framework em java. para uso interno.
+
+#### 2011 - 2011
+Secretaria de Seguranca Plublica do Tocantins
+
+Vínculo: Servidor Público, Enquadramento Funcional: programador, Carga horária: 40
+
+##### Outras informações:
+Manutenção no sistema interno em JSF.
+
+## Formação complementar: 
+
+### 2018 - 2018
+
+4523 - DevOps Essentials. (Carga horária: 20h). , 4LINUX, 4LINUX, Brasil.
+
+4449 - Linux Beginners in Cloud. (Carga horária: 20h). , 4LINUX, 4LINUX, Brasil.
+
+### 2017 - 2017
+
+Interface Gráfica com JavaFX. (Carga horária: 20h). , Udemy EAD, UDEMY, Brasil.
+
+### 2014 - 2014
+
+Governança em Tecnologia da Informação. (Carga horária: 16h). , Instituto de Gestão em Tecnologia da Informação, IGTI, Brasil.
+
+### 2012 - 2012
+
+ANT: Builds de software automatizados. (Carga horária: 12h). , Alura powered by Caelum, ALURA, Brasil.
+
+Git: Trabalho em Equipe com Controle e Segurança. (Carga horária: 16h). , Alura powered by Caelum, ALURA, Brasil.
+
+Conexão Java 2012 - Programação Web. (Carga horária: 6h). , Alura powered by Caelum, ALURA, Brasil.
+
+Testando comportamento através de mocks. (Carga horária: 12h). , Alura powered by Caelum, ALURA, Brasil.
+
+Design Patterns para bons programadores. (Carga horária: 20h). , Alura powered by Caelum, ALURA, Brasil.
+
+Testes de Unidade e TDD. (Carga horária: 12h). , Alura powered by Caelum, ALURA, Brasil.
+
+Eclipse: produtividade extrema. (Carga horária: 12h). , Alura powered by Caelum, ALURA, Brasil.
+
+Refatorando na prática em Java. (Carga horária: 20h). , Alura powered by Caelum, ALURA, Brasil.
+
+Testando sua Aplicação Web com Selenium. (Carga horária: 12h). , Alura powered by Caelum, ALURA, Brasil.
+
+Aprimorando a Orientação a Objetos com Java. (Carga horária: 20h). , Alura powered by Caelum, ALURA, Brasil.
+
+Banco de dados e SQL. (Carga horária: 12h). , Alura powered by Caelum, ALURA, Brasil.
+
+Conexão Java 2012 - Começando com Java. (Carga horária: 6h). , Alura powered by Caelum, ALURA, Brasil.
+
+Gráficos com Google Chart Tools. (Carga horária: 12h). , Alura powered by Caelum, ALURA, Brasil.
+
+Introdução ao cloud do EC2 no Amazon Web Services. (Carga horária: 12h). , Alura powered by Caelum, ALURA, Brasil.
+
+Relatórios em Java com JasperReports e iReport. (Carga horária: 20h). , Alura powered by Caelum, ALURA, Brasil.
  
-Curso: 	Conexão Java 2012 - Começando com Java
-Instituição: 	Alura
-Data de Início: 	
-13/11/2012 	
+## Participação em Eventos:
 
-Data de Conclusão:13/11/2012
-	
-Comentário: 	http://www.alura.com.br/certificate/fbbb9afb3aa0d9c4610990a2dd063adb
+VIII congresso acadêmico científico.Raspagem de Dados com Python (Web Scraping). 2018. (Oficina).
 
-## Certificados de Cursos Adicionais presencial: 
-- SENAC Tocantins – 11a 28 de fevereiro 2008 Concluído o aperfeiçoamento em Programação em Java – Avançado 42 horas .
-
-## Certificados de Eventos: 
-- IX ENACOMP UFG-Catalão – 25 a 27 de outubro de 2011 Participação Encontro Anual de Computação e Minicursos de Conceitos de Voip e Virtualização de Servidores.
-- SENAC Tocantins – 18 de outubro de 2006 Participação do I Fórum de Tecnologia Cibernética do Tocantins.
-- SECOP 2008 Palmas-Tocantins Participação Seminário Nacional de TIC para Gestão Pública. 
-- A.T.C. Informática – 11de março a 16 de agosto de 2002 Concluído o curso de operador de microcomputador.
-- Professor voluntario programa Cursinho pré-vestibular da UEG campos Uruaçu-GO ano 2004.
+V Congresso Acadêmico Cientifico, II Fórum Regional de Pesquisa, I Mostra de Extensão. Oficina Python - conceito basicos e estrutura de dados. 2015. (Congresso). 

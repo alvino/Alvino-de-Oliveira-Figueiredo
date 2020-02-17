@@ -65,7 +65,7 @@ linux, windowns.
 
 PHP, JAVA, python, JavaScript, Kotlin.
 
-#### Conhecimento Web:
+### Conhecimento Web:
 
 Tecnologia WEB Html5, javascript e CSS
 

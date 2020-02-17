@@ -98,12 +98,12 @@ MySQL, SQLite, Hsqldb, Prostgres, conhecimento em SQL,  e banco de dados relacio
 #### 2017 - Atual
 Municipio de Alto Horizonte
 
-*Vínculo:* Servidor Público, Enquadramento Funcional: Superintendente de Administração, Carga horária: 40
+*Vínculo:* Servidor Público, Superintendente de Administração, Carga horária: 40
 
 #### 2016 - 2016
 Instituto Federal de Goiás
 
-*Vínculo:* , Enquadramento Funcional: Professor Substituto, Carga horária: 16
+*Vínculo:* Professor Substituto, Carga horária: 16
 
 *Outras informações:*
 Professor Substituto administrando as disciplinas de Gestão de Software, Gerenciamento de projetos de software, banco de dados, programação I, Gestão de Qualidade de Software e Sistemas Operacionais.
@@ -111,7 +111,7 @@ Professor Substituto administrando as disciplinas de Gestão de Software, Gerenc
 #### 2013 - 2017
 FACULDADE SERRA DA MES A - FASEM
 
-*Vínculo:* Colaborador, Enquadramento Funcional: professor, Carga horária: 12
+*Vínculo:* Colaborador, Professor, Carga horária: 12
 
 *Outras informações:*
 Professor GTI (Gestão da Tecnologia da Informação)
@@ -119,7 +119,7 @@ Professor GTI (Gestão da Tecnologia da Informação)
 #### 2012 - 2012
 Cargill Uruaçu,GO, CARGIL URUAÇU
 
-*Vínculo:* Colaborador, Enquadramento Funcional: Empregado Temporario, Regime: Dedicação exclusiva.
+*Vínculo:* Colaborador, Empregado Temporario, Regime: Dedicação exclusiva.
 
 *Outras informações:*
 Função Administrativa por tempo determinado.
@@ -127,7 +127,7 @@ Função Administrativa por tempo determinado.
 #### 2009 - 2010
 FCAS - digitalização e organização de documentos
 
-*Vínculo:* Colaborador, Enquadramento Funcional: Programador, Carga horária: 44
+*Vínculo:* Colaborador, Programador, Carga horária: 44
 
 *Outras informações:*
 Desenvolvedor de sistema em Java.
@@ -135,7 +135,7 @@ Desenvolvedor de sistema em Java.
 #### 2008 - 2009
 Secretaria de Estado de Trabalho, Assistência Social do Tocantins)
 
-*Vínculo:* Servidor Público, Enquadramento Funcional: Pogramodor, Carga horária: 40
+*Vínculo:* Servidor Público, Pogramador, Carga horária: 40
 
 *Outras informações:*
 Desenvolvia o trabalho de analista de sistemas desenvolvendo framework em java. para uso interno.
@@ -143,7 +143,7 @@ Desenvolvia o trabalho de analista de sistemas desenvolvendo framework em java. 
 #### 2011 - 2011
 Secretaria de Seguranca Plublica do Tocantins
 
-*Vínculo:* Servidor Público, Enquadramento Funcional: programador, Carga horária: 40
+*Vínculo:* Servidor Público, Programador, Carga horária: 40
 
 *Outras informações:*
 Manutenção no sistema interno em JSF.
